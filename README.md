@@ -68,16 +68,16 @@ Filtered data to list the first name, last name, and hire date for the employees
 <img width="591" alt="#3- Data Analysis with departments " src="https://user-images.githubusercontent.com/118647940/221443488-6cfb94ea-50e0-469a-bcf6-73e21533f9f0.png">
 Filtered data to list the manager of each department along with their department number, department name, employee number, last name, and first name.
 
-<img width="451" alt="#5 Data Analysis- Hercules B" src="https://user-images.githubusercontent.com/118647940/221443509-90979d57-7b03-4796-a6c2-5669d6db9825.png">
+<img width="298" alt="#5 Data Analysis-  Hercules B " src="https://user-images.githubusercontent.com/118647940/221446341-8ab99af3-0d8c-428e-ae9e-61f49ced1d6f.png">
 Filtered data to list first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
-<img width="482" alt="#6 Data Analysis- Sales Department " src="https://user-images.githubusercontent.com/118647940/221443526-1bb76c6f-eedd-4348-bd4a-cf172140c843.png">
+<img width="302" alt="#6 Data Analysis Sales Department " src="https://user-images.githubusercontent.com/118647940/221446365-d4d1d4e7-38f8-4975-ab93-0a89d88fbfde.png">
 Filtered data to list each employee in the Sales department, including their employee number, last name, and first name.
 
-<img width="455" alt="#7 Data Analysis Sales and Development" src="https://user-images.githubusercontent.com/118647940/221443545-1ac4e06a-3547-437f-b4b0-081bbea55a93.png">
+<img width="392" alt="#7 Data Analysis  Sales and Department " src="https://user-images.githubusercontent.com/118647940/221446377-35e070b2-296d-471e-9538-108c50f629b7.png">
 Filtered data to list each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-<img width="398" alt="#8 Data Analysis Employee Last name freq count " src="https://user-images.githubusercontent.com/118647940/221443571-ccb7ab95-affd-42c4-8ffb-88d50edb057f.png">
+<img width="366" alt="#8- Data Analysis Freq  Count " src="https://user-images.githubusercontent.com/118647940/221446389-c5bf8ca4-3441-4d23-979f-05fafd1524df.png">
 Filtered data to list the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 
